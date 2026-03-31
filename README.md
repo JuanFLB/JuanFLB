@@ -1,5 +1,5 @@
 # Juan F. Lafuente Barquero
----
+
 Computational biologist. I work on functional genomics in cancer: 
 CRISPR-Cas9 screens, multi-omics integration, and R/Bioconductor-based 
 analysis of high-throughput data.
